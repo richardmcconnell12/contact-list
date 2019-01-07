@@ -1,0 +1,22 @@
+{
+  "contact": [
+    {
+      "name": "Ricky",
+      "address": "685 Parkway Drive SW",
+      "number": "(777)-867-5309",
+      "id": 1
+    },
+    {
+      "name": "Elmo",
+      "address": "123 Sesame St. NE",
+      "number": "(123)-456-7890",
+      "id": 2
+    },
+    {
+      "name": "Ricky",
+      "address": "416 St. Clair Ave. SW",
+      "number": "(330)-432-5235",
+      "id": 3
+    }
+  ]
+}
